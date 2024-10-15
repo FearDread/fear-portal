@@ -5,3 +5,12 @@
 @import "additional-styles/utility-patterns.css";
 @import "additional-styles/theme.css";
 @import "tailwindcss/utilities";
+
+
+.moshyn-video-button {
+    margin: 0;
+    position: relative;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}

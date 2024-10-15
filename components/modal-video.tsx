@@ -46,7 +46,7 @@ export default function ModalVideo({
 
       {/* Video thumbnail */}
       <button
-        className="group relative flex items-center justify-center rounded-2xl focus:outline-none focus-visible:ring focus-visible:ring-indigo-200"
+        className="group relative flex items-center justify-center rounded-2xl focus:outline-none focus-visible:ring focus-visible:ring-indigo-200 moshyn-video-button"
         onClick={() => {
           setModalOpen(true);
         }}
